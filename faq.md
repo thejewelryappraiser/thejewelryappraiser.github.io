@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: landing-page
 title: faq
-published: false
 
 ---
 **What do you charge for an appraisal?**
