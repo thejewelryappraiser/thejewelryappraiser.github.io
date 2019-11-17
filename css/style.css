@@ -23,7 +23,7 @@
 	}
 
 	a {
-		color: #629DD1;
+		color: #6F2770;
 		text-decoration: underline;
 	}
 
@@ -707,7 +707,7 @@
 		background-color: #192024;
 		border-radius: 6px;
 		border: 0;
-		color: #ffffff !important;
+		color: #ffffff;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 300;
@@ -780,15 +780,19 @@
 		input[type="reset"].alt,
 		input[type="button"].alt,
 		.button.alt {
-			background-color: transparent;
 			box-shadow: inset 0 0 0 1px rgba(144, 144, 144, 0.25);
-			color: #666f77 !important;
+		}
+
+		.dark.button {
+		    color: #ffffff;
+		    background-color: #6F2770;
 		}
 
 			input[type="submit"].alt:hover,
 			input[type="reset"].alt:hover,
 			input[type="button"].alt:hover,
 			.button.alt:hover {
+				color: #000000;
 				background-color: rgba(144, 144, 144, 0.075);
 			}
 
@@ -947,7 +951,6 @@
 						-o-transition: color 0.2s ease-in-out;
 						-ms-transition: color 0.2s ease-in-out;
 						transition: color 0.2s ease-in-out;
-						color: #555f66;
 						display: inline-block;
 						text-decoration: none;
 					}
@@ -989,17 +992,7 @@
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
-/* 		background-image: url("../images/Cerebrospinal_fluid_mechanics_using_3D_PTV.gif"); */
-/* 
-		background-image: url("../images/rotating_disks.gif");
- */
-		/* background-image: url("../images/twophase.gif"); */
-		/* background-image: url("../images/rotating.gif"); */
-		/* background-image: url("../images/aorta.gif"); */
-		/* background-image: url("../images/stratified_particles.gif"); */
-		/* background-image: url("../images/impinging_laser.gif"); */
-		/* background-image: url("../images/llk_convection.gif"); */
-		background-image: url("../images/puff1_1.jpg");
+		background-image: url("../images/banner.jpg");
 		color: #d8d8d8;
 		padding: 14em 0;
 		text-align: center;
@@ -1013,7 +1006,7 @@
 			top: 0;
 			width: 100%;
 			height: 100%;
-			background: rgba(64, 72, 80, 0.25);
+			/*background: rgba(64, 72, 80, 0.25);*/
 		}
 
 		#banner .inner {

@@ -1,11 +1,10 @@
 # Site settings
-title: Alex's Lab
-email: alexlib@tau.ac.il
-description: Research Laboratory, Tel Aviv University, experimental turbulence
+title: The Jewelry Appraiser INC.
+email: deborah@thejewelryappraiser.com
+description: Jewelry appraisals by the jewelry appraiser – Independent Certified Gemologist Appraiser (ICGA) and private gemology lab in Manhasset, NY
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://alex-lab.github.io" # the base hostname & protocol for your site
-twitter_username: alexlib
-github_username:  alexlib
+url: "https://thejewelryappraiser.com" # the base hostname & protocol for your site
+twitter_username: NYAppraiserDeb
 
 # Build settings
 markdown: kramdown
