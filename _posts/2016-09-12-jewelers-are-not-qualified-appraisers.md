@@ -3,9 +3,7 @@ layout: post
 title: Jewelers Are NOT Qualified Appraisers!
 
 ---
-I need to address an issue that people don’t fully understand and because they don’t, many of you are being taken advantage of!
-
-Because someone refers to himself or herself as a Jeweler, does not mean that they are in anyway qualified to appraise your jewelry.
+I need to address an issue that people don’t fully understand and because they don’t, many of you are being taken advantage of! Because someone refers to himself or herself as a Jeweler, does not mean that they are in anyway qualified to appraise your jewelry.
 
 ## **Even a good jeweler who has worked hard to acquire the prestigious credentials as a graduate gemologist is still not by any means a jewelry appraiser or someone qualified to assess and/or purchase diamonds on your behalf.**
 
