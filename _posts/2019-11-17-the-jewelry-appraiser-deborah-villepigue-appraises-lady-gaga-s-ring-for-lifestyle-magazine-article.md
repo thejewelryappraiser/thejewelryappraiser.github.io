@@ -4,9 +4,7 @@ title: The Jewelry Appraiser, Deborah Villepigue, Appraises Lady Gaga’s Ring f
   Magazine Article
 
 ---
-**The Jewelry Appraiser Appraises Lady Gaga’s diamond ring at $650,000.00.**
-
-Lifestyle magazine chose to trust “celebrity jewelry appraiser, Deborah Villepigue” to appraise pop star Lady Gaga’s 5 carat diamond ring.
+**The Jewelry Appraiser Appraises Lady Gaga’s diamond ring at $650,000.** Lifestyle magazine chose to trust “celebrity jewelry appraiser, Deborah Villepigue” to appraise pop star Lady Gaga’s 5 carat diamond ring.
 
 ![](/uploads/as-featured-in-Lifestylelogo.jpg)
 
