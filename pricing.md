@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pricing
-published: false
 
 ---
 ### Jewelry Appraiser fee schedule:
