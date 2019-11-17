@@ -1,5 +1,5 @@
 ---
-layout: landing-page
+layout: post
 title: faq
 
 ---
