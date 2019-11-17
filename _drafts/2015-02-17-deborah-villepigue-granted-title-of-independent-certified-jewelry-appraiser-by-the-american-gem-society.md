@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Deborah Villepigue Granted Title of Independent Certified Jewelry Appraiser
-  by the American Gem Society
+title: 2012-05-19-Deborah Villepigue Granted Title of Independent Certified Jewelry
+  Appraiser by the American Gem Society
 
 ---
 I am honored to have been granted the title of Independent Certified Jewelry Appraiser by the American Gem Society. I am the only appraiser with this title in the entire state of New York. I am held to a high code of ethics. Consumer protection and education is our mission.Our society has developed its own cut, color and clarity standards. The ICGA title is the highest title that can be obtained in the entire jewelry industry. These credentials required extensive education, testing and hard work for many many years.
