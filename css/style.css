@@ -986,10 +986,20 @@
 
 	#banner {
 		background-color: #666666;
-		background-image: url("../images/banner.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
+/* 		background-image: url("../images/Cerebrospinal_fluid_mechanics_using_3D_PTV.gif"); */
+/* 
+		background-image: url("../images/rotating_disks.gif");
+ */
+		/* background-image: url("../images/twophase.gif"); */
+		/* background-image: url("../images/rotating.gif"); */
+		/* background-image: url("../images/aorta.gif"); */
+		/* background-image: url("../images/stratified_particles.gif"); */
+		/* background-image: url("../images/impinging_laser.gif"); */
+		/* background-image: url("../images/llk_convection.gif"); */
+		background-image: url("../images/puff1_1.jpg");
 		color: #d8d8d8;
 		padding: 14em 0;
 		text-align: center;
