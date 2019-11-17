@@ -3,11 +3,9 @@ layout: post
 title: Certified Jewelry Appraisals For Insurance Purposes – Diamond Rings
 
 ---
-## **What is a Jewelry Appraisal:**
+What is a Jewelry Appraisal? An appraisal is a judgement of the value of a specific piece of jewelry on a specific date. It is a document that describes the quantitative and qualitative attributes of the piece required to derive a conclusion as to the dollar value of the item.
 
-An appraisal is a judgement of the value of a specific piece of jewelry on a specific date. It is a document that describes the quantitative and qualitative attributes of the piece required to derive a conclusion as to the dollar value of the item.
-
-1\. Qualification of a Jewelry Appraiser:
+Qualification of a Jewelry Appraiser:
 
 A jewelry appraiser is an expert skilled in the science of appraisal through extensive training.
 
