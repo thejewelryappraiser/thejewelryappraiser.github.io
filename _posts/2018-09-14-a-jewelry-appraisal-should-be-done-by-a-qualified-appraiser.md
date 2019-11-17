@@ -3,7 +3,7 @@ layout: post
 title: A Jewelry Appraisal Should Be Done By a Qualified Appraiser
 
 ---
-**A good jeweler who has worked hard to get the prestigious credentials as a graduate gemologist is still not by any means a jewelry appraiser or someone qualified to assess and/or purchase diamonds on your behalf.**
+A good jeweler who has worked hard to get the prestigious credentials as a graduate gemologist is still not by any means a jewelry appraiser or someone qualified to assess and/or purchase diamonds on your behalf.
 
 A licensed and independent appraiser (they often appraise more than just jewelry) is not someone who gets involved buying and selling jewelry — they are professional appraisers who dedicate their time and focus to providing the finest appraising services in the world. Putting your trust into anyone less, is a great way of having your property inaccurately appraised.
 
@@ -11,7 +11,6 @@ A [jewelry appraiser](https://thejewelryappraiser.com/) worth their salt, is som
 
 **There is obviously a lack of education when it comes to qualified appraising and unfortunately, thousands of jewelry owners have already been illegally taken advantage of and have been robbed of their jewelry’s true value.**
 
-  
 ![Jewelry appraisal](https://lh5.googleusercontent.com/DOWMq1wUTAksLVVnl3Xnw0x4CWlCf37u0R42r_2QfYSzcfgJlHbF1zjQwyJvjWmxHYNQYbV8kFsoM09XzF0pTjBIiJs7naZLofZd6YfetFICCbaUnVusr9EfTqioNm2yHZUnJp24 =300x261)
 
 From personal jewelry appraising to having an estate appraised in the courts, if you refuse to become a victim of someone claiming to have the credentials of an authentic appraiser, do your due diligence and make sure you’re in the right hands. The last thing you want is to look back and say, “would’ve-should’ve-could’ve!”
