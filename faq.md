@@ -3,9 +3,9 @@ layout: post
 title: faq
 
 ---
-**Why do I need an appraisal?**
+**What do you charge for an appraisal?**
 
-\**What do you charge for an appraisal?**Fees are charged by the hour.
+Fees are charged by the hour.
 
 **How often do I need my jewelry appraised?**
 
