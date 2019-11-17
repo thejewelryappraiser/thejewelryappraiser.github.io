@@ -3,29 +3,9 @@ layout: post
 title: faq
 
 ---
-**What do you charge for an appraisal?**
-
-**How often do I need my jewelry appraised?**
-
-**Are you a “Certified” Appraiser?**
-
-**How long have you been appraising jewelry?**
-
-**Do you buy or sell jewelry?**
-
-**May I wait and watch my items being appraised?**
-
-**I need an update on my appraisal(s) for my insurance policy, do you do this?**
-
-**Do you appraise other items of personal property other than jewelry, watches and silver flatware?**
-
-**A family member has passed away and I need an appraisal for estate tax purposes, do you do this?**
-
-**What questions should I ask before hiring a jewelry appraiser?**
-
 **Why do I need an appraisal?**
 
-**What do you charge for an appraisal?**Fees are charged by the hour.
+\**What do you charge for an appraisal?**Fees are charged by the hour.
 
 **How often do I need my jewelry appraised?**
 
@@ -63,23 +43,14 @@ Yes, we perform numerous types of appraisals. They type of appraisal you need is
 
 Before you take your jewelry to a Jeweler, ask the following questions first:
 
-• Are you a Graduate Gemologist of the GIA or the Gemological Association of Great Britain?
-
-• When did you graduate? • How long have you been in the jewelry industry? (Should have at least ten years of experience
-
-in the field).
-
-• Are you also certified as an appraiser by an appraisal organization like the American Society of Appraisers or the Nation
-
-Association of Jewelry Appraisers. (There’s no such thing as a “GIA Certified Appraiser. There’s also no such thing as a
-
-“licensed appraiser” for personal property.)
-
-• How long have you been in practice? • Are your appraisals hand written or computer generated?
-
-• Do you provide color photos of items?
-
-• Have you had your color vision tested by an eye doctor recently?
+* Are you a Graduate Gemologist of the GIA or the Gemological Association of Great Britain?
+* When did you graduate?
+* How long have you been in the jewelry industry? (Should have at least ten years of experience in the field).
+* Are you also certified as an appraiser by an appraisal organization like the American Society of Appraisers or the Nation Association of Jewelry Appraisers. (There’s no such thing as a “GIA Certified Appraiser. There’s also no such thing as a “licensed appraiser” for personal property.)
+* How long have you been in practice?
+* Are your appraisals hand written or computer generated?
+* Do you provide color photos of items?
+* Have you had your color vision tested by an eye doctor recently?
 
 Gemology and appraising are not the same thing! Gemologists are not necessarily qualified appraisers, and require significant training, certification, and experience to achieve competency in jewelry appraising. A gemologist may be able to identify and even grade a diamond, but may not know how to determine its value.
 
@@ -93,22 +64,13 @@ Whether you are buying a new piece of jewelry, selling part of your collection, 
 
 An Appraisal Report is a package of information that includes:
 
-Who performed the appraisal of your jewelry
-
-When the appraisal took place
-
-The qualifications and accreditations of the appraisers
-
-The purpose or intent of the appraisal
-
-What was done during the appraisal
-
-Which standards were observed
-
-Which criteria went into the evaluation
-
-How the actual value of the jewelry determined
-
-The final value of the jewelry as of the date of the appraisal
-
-A Professional Jewelry Appraisal is your authoritative passport to peace of mind!
+* Who performed the appraisal of your jewelry
+* When the appraisal took place
+* The qualifications and accreditations of the appraisers
+* The purpose or intent of the appraisal
+* What was done during the appraisal
+* Which standards were observed
+* Which criteria went into the evaluation
+* How the actual value of the jewelry determined
+* The final value of the jewelry as of the date of the appraisal
+* A Professional Jewelry Appraisal is your authoritative passport to peace of mind!
