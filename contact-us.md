@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Contact Us
-published: false
 
 ---
 ### Contact The Jewelry Appraiser
