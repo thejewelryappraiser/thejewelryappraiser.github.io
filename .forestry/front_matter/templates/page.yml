@@ -9,6 +9,7 @@ fields:
   name: title
   label: title
 pages:
+- contact-us.md
 - services.md
 - about-us.md
 - pricing.md
