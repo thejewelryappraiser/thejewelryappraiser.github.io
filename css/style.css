@@ -992,12 +992,15 @@
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
-		background-image: url("../images/banner.jpg");
 		color: #d8d8d8;
 		padding: 14em 0;
 		text-align: center;
 		position: relative;
 	}
+
+		#banner.withimage {
+			background-image: url("../images/banner.jpg");
+		}
 
 		#banner:before {
 			content: '';
