@@ -861,7 +861,7 @@
 			color: #c5c7c8;
 		}
 
-			.wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
+			.wrapper.style2 h2, .wrapper.style2 h2 a, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
 				color: #ffffff;
 			}
 
