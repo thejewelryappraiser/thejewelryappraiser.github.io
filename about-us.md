@@ -3,7 +3,7 @@ layout: post
 title: About Us
 
 ---
-![](/uploads/Screen-Shot-2015-04-11-at-10.15.34-PM-300x261.jpg)
+<div style="text-align:center"><img src="/uploads/Screen-Shot-2015-04-11-at-10.15.34-PM-300x261.jpg" /></div>
 
 **Deborah A. Villepigue GG,RMV,AGA,ICGA**
 
