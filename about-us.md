@@ -3,16 +3,16 @@ layout: post
 title: About Us
 
 ---
-<div style="text-align:center"><img src="/uploads/Screen-Shot-2015-04-11-at-10.15.34-PM-300x261.jpg" />
+<div style="text-align:center"><img src="/uploads/Screen-Shot-2015-04-11-at-10.15.34-PM-300x261.jpg" /></div>
 
-**Deborah A. Villepigue GG,RMV,AGA,ICGA**
+<div style="text-align:center">**Deborah A. Villepigue GG,RMV,AGA,ICGA**</div>
 
-Independent Certified Gemologist Appraiser
+<div style="text-align:center">Independent Certified Gemologist Appraiser</div>
 
-Accredited Gem Laboratory®
+<div style="text-align:center">Accredited Gem Laboratory®</div>
 
-Advanced Personal Property Appraiser
-</div>
+<div style="text-align:center">Advanced Personal Property Appraiser</div>
+
 
 ***
 
