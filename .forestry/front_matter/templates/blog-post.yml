@@ -8,3 +8,5 @@ fields:
 - type: textarea
   name: title
   label: title
+pages:
+- _testimonials/testing.md
