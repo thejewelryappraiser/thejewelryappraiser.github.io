@@ -9,4 +9,5 @@ fields:
   name: title
   label: title
 pages:
+- _posts/2019-11-20-new-test.md
 - _testimonials/testing.md
