@@ -41,7 +41,7 @@ After the estate matters were finished, we went back to Deborah for help in eval
 
 ***
 
-Read more reviews on the following:
+Read more reviews on the following sites:
 
 * [Yelp](https://www.yelp.com/biz/the-jewelry-appraiser-manhasset-3 "Yelp")
 * [Google](https://goo.gl/maps/HttFfiLfqLgTrW8r5 "Google")
